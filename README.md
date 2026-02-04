@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/ArchanaInsights/Datasets/main/marketing_campai
 - ROI vs Acquisition Cost
 - Engagement analysis
 - Channels Analysis
-- correlation
+- Correlation
 - Kernal density
 
 ## How to Run
