@@ -26,6 +26,6 @@ https://raw.githubusercontent.com/ArchanaInsights/Datasets/main/marketing_campai
 ## How to Run
 
 pip install pandas numpy matplotlib seaborn
-python capstone project.py
+python Marketing Campaign project.py
 
 Author: Shalini
