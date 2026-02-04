@@ -1,4 +1,4 @@
-# Python-Data-_Analysis-_Project
+# Python-Data-_Analyst-_Project
 #Marketing campaign Data analyst project using Python with EDA and visualizations
 
 This project performs Exploratory Data Analysis (EDA) on marketing campaign data.
